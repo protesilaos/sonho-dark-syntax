@@ -4,14 +4,18 @@ A medium-to-high contrast theme that delivers a playful, relaxed feel. The most 
 
 *Sonho* comes in standalone light and dark variants (see further info below).
 
-## Screenshot
+## Screenshots
 
-![sonho dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/sonho/img/sonho_dark_sample.png)
+![sonho dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/sonho/img/sonho_dark_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![sonho dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/sonho/img/sonho_dark_scss.png)
 
+![sonho dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/sonho/img/sonho_dark_js.png)
+
+![sonho dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/sonho/img/sonho_dark_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 ## Download
 
 Search for `sonho-dark-syntax` in Settings > Install > Themes. Or install it directly using the command:
